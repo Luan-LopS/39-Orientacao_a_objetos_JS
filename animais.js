@@ -25,6 +25,8 @@ const rex = new Dog('Rex', 2)
 const garfield = new Cat('Garfield', 5)
 const caramelo = new Dog('Caramelo', 8)
 
+
+
 console.log(rex)
 console.log(rex.som())
 
